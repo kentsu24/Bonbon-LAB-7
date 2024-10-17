@@ -28,7 +28,7 @@ def calculate_final_grade():
   elif grade_points >= 84:
     grade_description = "Satisfactory"
   elif grade_points >= 81:
-    grade_description = "Fairly Satisfactory"
+    grade_description = "Fairly    Satisfactory"
   elif grade_points >= 78:
     grade_description = "Fair"
   elif grade_points >= 75:
